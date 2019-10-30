@@ -1,4 +1,4 @@
-# scp2
+# scp2 | ![](https://github.com/ssmirr/node-scp2/workflows/GitHub%20Actions/badge.svg)
 
 A pure javascript secure copy program based on ssh2.
 
