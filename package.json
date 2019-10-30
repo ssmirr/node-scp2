@@ -26,9 +26,9 @@
   },
   "devDependencies": {
     "expect.js": "0",
+    "jscoverage": "^0.5.9",
     "jshint": "2",
-    "mocha": "2",
-    "jscoverage": "^0.5.9"
+    "mocha": "^6.2.2"
   },
   "bin": {
     "scp2": "bin/scp2"
