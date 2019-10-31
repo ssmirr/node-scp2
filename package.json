@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "expect.js": "0",
-    "jscoverage": "^0.5.9",
+    "jscoverage": "^0.6.0",
     "jshint": "2",
     "mocha": "^6.2.2"
   },
