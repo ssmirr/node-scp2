@@ -28,7 +28,7 @@
     "expect.js": "0",
     "jscoverage": "^0.5.9",
     "jshint": "2",
-    "mocha": "^6.2.2"
+    "mocha": "^7.0.1"
   },
   "bin": {
     "scp2": "bin/scp2"
